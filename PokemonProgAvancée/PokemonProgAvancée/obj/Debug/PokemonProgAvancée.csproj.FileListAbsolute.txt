@@ -1,0 +1,6 @@
+H:\Pokemon\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\bin\Debug\PokemonProgAvancée.exe.config
+H:\Pokemon\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\bin\Debug\PokemonProgAvancée.exe
+H:\Pokemon\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\bin\Debug\PokemonProgAvancée.pdb
+H:\Pokemon\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\obj\Debug\PokemonProgAvancée.csprojResolveAssemblyReference.cache
+H:\Pokemon\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\obj\Debug\PokemonProgAvancée.exe
+H:\Pokemon\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\obj\Debug\PokemonProgAvancée.pdb
