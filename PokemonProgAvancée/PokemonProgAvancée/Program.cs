@@ -11,6 +11,7 @@ namespace PokemonProgAvancée
         static void Main(string[] args)
         {
             Console.WriteLine("Salut");
+            Console.ReadKey();
         }
     }
 }
