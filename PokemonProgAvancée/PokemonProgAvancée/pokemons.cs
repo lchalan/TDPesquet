@@ -19,7 +19,7 @@ namespace PokemonProgAvancée
 
         string[,] types = new string[,] { { "Feu", "Eau" }, { "Terre", "Air" }, { "Eau", "Electricite" }, { "Air", "Plante" }, { "Plante", "Feu" }, { "Electricite", "Terre" } };
 
-        List<string> nomspokemons = new List<string>(Bulbizarre, Herbizarre, Florizarre, Salamèche, Reptincel, Dracaufeu, Carapuce, Carabaffe, Tortank, Chenipan, Chrysacier, Papilusion, Aspicot, Coconfort, Dardargnan, Roucool, Roucoups, Roucarnage,
+        List<string> nomspokemons = new List<string>("Bulbizarre", Herbizarre, Florizarre, Salamèche, Reptincel, Dracaufeu, Carapuce, Carabaffe, Tortank, Chenipan, Chrysacier, Papilusion, Aspicot, Coconfort, Dardargnan, Roucool, Roucoups, Roucarnage,
             Rattata, Rattatac, Piafabec, Rapasdepic, Abo, Arbok, Pikachu, Raichu, Sabelette, Sablaireau, Nidoran♀, Nidorina, Nidoqueen, Nidoran♂, Nidorino, Nidoking, Mélofée, Mélodelfe, Goupix, Feunard, Rondoudou, Grodoudou, Nosferapti, Nosferalto, Mystherbe, Ortide
             , Rafflésia, Paras, Parasect, Mimitoss);
 
