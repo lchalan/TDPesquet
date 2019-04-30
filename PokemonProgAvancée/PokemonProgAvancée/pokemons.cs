@@ -19,9 +19,9 @@ namespace PokemonProgAvancée
 
         string[,] types = new string[,] { { "Feu", "Eau" }, { "Terre", "Air" }, { "Eau", "Electricite" }, { "Air", "Plante" }, { "Plante", "Feu" }, { "Electricite", "Terre" } };
 
-        List<string> nomspokemons = new List<string>("Bulbizarre", Herbizarre, Florizarre, Salamèche, Reptincel, Dracaufeu, Carapuce, Carabaffe, Tortank, Chenipan, Chrysacier, Papilusion, Aspicot, Coconfort, Dardargnan, Roucool, Roucoups, Roucarnage,
-            Rattata, Rattatac, Piafabec, Rapasdepic, Abo, Arbok, Pikachu, Raichu, Sabelette, Sablaireau, Nidoran♀, Nidorina, Nidoqueen, Nidoran♂, Nidorino, Nidoking, Mélofée, Mélodelfe, Goupix, Feunard, Rondoudou, Grodoudou, Nosferapti, Nosferalto, Mystherbe, Ortide
-            , Rafflésia, Paras, Parasect, Mimitoss);
+        List<string> nomspokemons = new List<string> {"Bulbizarre", "Herbizarre", "Florizarre", "Salamèche", "Reptincel", "Dracaufeu", "Carapuce", "Racaillou", "Tortank", "Chenipan", "Chrysacier", "Papilusion", "Aspicot", "Coconfort", "Dardargnan", "Roucool","Mewtwo", "Ronflex",
+            "Rattata", "Cabuto", "Piafabec", "Grolem", "Tentacool", "Arbok", "Pikachu", "Leviator", "Sabelette", "Magiecarp", "Nidoran", "Scarabrute", "Mr mime", "Kangourex", "Rhinoferoce", "Smogo", "Mélofée", "Osselait", "Goupix", "Feunard", "Rondoudou", "Voltrob", "Nosferapti", "Soporifik", "Mystherbe", "Ortide"
+            ,"Rafflésia", "Paras", "Onix", "Mimitoss" };
 
         public Random alea = new Random();
 
