@@ -34,9 +34,18 @@ namespace PokemonProgAvancée
             Faiblesse = faiblesse;
         }
 
-        private void creaBasePokemons ()
+        public void creaBasePokemons ()
         {
-
+            for (int i = 0; i < 48; i++)
+            {
+                int pv = alea.Next(500, 1001);
+                int puissance = alea.Next(300, 501);
+                int nb = alea.Next(1, 7);
+                string type = types[nb, 0];
+                string faiblesse = types[nb, 1];
+                Pokemons P = new Pokemons(nomspokemons[i], pv, puissance, type, faiblesse);
+                bddpokemon.Add(P);
+            }
         }
     }
 }
