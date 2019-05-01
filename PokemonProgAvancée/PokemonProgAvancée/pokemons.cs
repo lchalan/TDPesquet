@@ -9,7 +9,7 @@ namespace PokemonProgAvancée
     class Pokemons : BddPokemon
     {
 
-        private string Nom { get; set; }
+        public string Nom { get; set; }
         private int Pv { get; set; }
         private int Puissance { get; set; }
         private string Type { get; set; }

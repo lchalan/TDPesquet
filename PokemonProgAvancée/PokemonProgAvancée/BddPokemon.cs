@@ -24,7 +24,7 @@ namespace PokemonProgAvancée
             {
                 int pv = alea.Next(500, 1001);
                 int puissance = alea.Next(300, 501);
-                int nb = alea.Next(1, 7);
+                int nb = alea.Next(0, 6);
                 string type = types[nb, 0];
                 string faiblesse = types[nb, 1];
                 Pokemons P = new Pokemons(nomspokemons[i], pv, puissance, type, faiblesse);
@@ -34,7 +34,11 @@ namespace PokemonProgAvancée
 
         public override string ToString()
         {
-            return "Les pokémons disponnibles sont :"+bddpokemon;
+            for (int i = 0; i<48; i++)
+            {
+                Console.WriteLine(bddpokemon[i].Nom);
+            }
+            return "";
         }
     }
 }
