@@ -11,7 +11,8 @@ namespace PokemonProgAvancée
         static void Main(string[] args)
         {
             Console.WriteLine("Salut");
-            creaBasePokemons();
+            BddPokemon pokméonsdispo = new BddPokemon();
+            Console.WriteLine(pokméonsdispo);
             Console.ReadKey();
         }
     }

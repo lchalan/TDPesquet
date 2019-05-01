@@ -4,3 +4,10 @@ H:\Pokemon\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\bin\Debug\PokemonPr
 H:\Pokemon\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\obj\Debug\PokemonProgAvancée.csprojResolveAssemblyReference.cache
 H:\Pokemon\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\obj\Debug\PokemonProgAvancée.exe
 H:\Pokemon\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\obj\Debug\PokemonProgAvancée.pdb
+D:\Dossier école\$ENSC 1A\GithubProjets\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\bin\Debug\PokemonProgAvancée.exe.config
+D:\Dossier école\$ENSC 1A\GithubProjets\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\bin\Debug\PokemonProgAvancée.exe
+D:\Dossier école\$ENSC 1A\GithubProjets\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\bin\Debug\PokemonProgAvancée.pdb
+D:\Dossier école\$ENSC 1A\GithubProjets\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\obj\Debug\PokemonProgAvancée.csprojAssemblyReference.cache
+D:\Dossier école\$ENSC 1A\GithubProjets\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\obj\Debug\PokemonProgAvancée.csproj.CoreCompileInputs.cache
+D:\Dossier école\$ENSC 1A\GithubProjets\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\obj\Debug\PokemonProgAvancée.exe
+D:\Dossier école\$ENSC 1A\GithubProjets\TDPesquet\PokemonProgAvancée\PokemonProgAvancée\obj\Debug\PokemonProgAvancée.pdb
