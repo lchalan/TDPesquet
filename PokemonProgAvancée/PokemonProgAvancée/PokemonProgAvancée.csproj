@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BddPokemon.cs" />
     <Compile Include="Equipe.cs" />
+    <Compile Include="ListeEquipe.cs" />
     <Compile Include="Pokemons.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

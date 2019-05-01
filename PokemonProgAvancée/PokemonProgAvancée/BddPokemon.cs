@@ -10,7 +10,7 @@ namespace PokemonProgAvancée
     {
         public Random alea = new Random();
 
-        List<Pokemons> bddpokemon = new List<Pokemons> { };
+        public List<Pokemons> bddpokemon = new List<Pokemons> { };
 
         string[,] types = new string[,] { { "Feu", "Eau" }, { "Terre", "Air" }, { "Eau", "Electricite" }, { "Air", "Plante" }, { "Plante", "Feu" }, { "Electricite", "Terre" } };
 
@@ -32,13 +32,25 @@ namespace PokemonProgAvancée
             }
         }
 
-        public override string ToString()
-        {
-            for (int i = 0; i<48; i++)
-            {
-                Console.WriteLine(bddpokemon[i].Nom);
-            }
-            return "";
-        }
+        //public override string ToString()
+        //{
+        //    for (int i = 0; i < 48; i++)
+        //    {
+        //        Console.WriteLine(bddpokemon[i].Nom);
+        //    }
+        //    return "";
+        //}
+
+        //public List<Pokemons> GetListe()
+        //{
+        //    return bddpokemon;
+        //}
+        //public void setListe(List<Pokemons> liste)
+        //{
+        //    for (int i = 0; i < 47; i++)
+        //    {
+        //        liste.Add(bddpokemon[i]);
+        //    }
+        //}
     }
 }
